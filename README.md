@@ -1,8 +1,14 @@
-<h2 align="left">Hi 👋! My name is Catarina and I'm a Computer Science and Engineering Student, from Portugal</h2>
+<h3 align="left">Hi 👋! My name is Catarina and I'm a Computer Science and Engineering Student, from Portugal</h3>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -20,14 +26,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/catarina-costa02/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
