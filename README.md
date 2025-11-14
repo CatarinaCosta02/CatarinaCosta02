@@ -41,7 +41,7 @@ I'm passionate about machine learning, programming, design, and fashion.
 ###
 
 ### 📃CV
-[CV](https://github.com/CatarinaCosta02/CatarinaCosta02/raw/main/Catarina_Costa_CV_Eng(2).pdf)
+[CV](https://github.com/CatarinaCosta02/CatarinaCosta02/blob/main/Catarina_Costa_CV_Eng%20(2).pdf)
 
 
 ###
